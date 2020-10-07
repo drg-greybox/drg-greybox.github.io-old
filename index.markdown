@@ -1,16 +1,12 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Dynamics Research Group - Greybox modelling
+subtitle: sub heading 1
 layout: page
-callouts: home_callouts
+#callouts: home_callouts
 show_sidebar: false
 menubar: example_menu
 ---
 
-# Dynamics Research Group - Greybox modelling
-
-Currently in construction, check back soon :)
-
 # Heading 1#
 
-description 1
+Currently in construction, check back soon :)
